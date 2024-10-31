@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\task-manager\backend\TaskManager.API\obj\Debug\net8.0\TaskManager.Api.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\task-manager\backend\TaskManager.API\obj\Debug\net8.0\TaskManager.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\task-manager\backend\TaskManager.API\obj\Debug\net8.0\TaskManager.Api.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\task-manager\backend\TaskManager.API\obj\Debug\net8.0\TaskManager.Api.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\task-manager\backend\TaskManager.API\obj\Debug\net8.0\TaskManager.Api.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\task-manager\backend\TaskManager.API\obj\Debug\net8.0\TaskManager.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\task-manager\backend\TaskManager.API\obj\Debug\net8.0\TaskManager.Api.MvcApplicationPartsAssemblyInfo.cache
